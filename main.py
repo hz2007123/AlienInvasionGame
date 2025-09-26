@@ -6,7 +6,7 @@ pygame.init()
 screen = pygame.display.set_mode((480, 720))
 clock = pygame.time.Clock()
 running = True
-dtdt = 0
+dt = 0
 
 bullets = []
 
